@@ -1,0 +1,27 @@
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.exe.config
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.exe
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.pdb
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.csprojResolveAssemblyReference.cache
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.Form1.resources
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.Properties.Resources.resources
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.csproj.GenerateResource.Cache
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.exe
+E:\Documents\asp.net\workspace\day8\project\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.pdb
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.exe.config
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.exe
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.pdb
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.exe
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.pdb
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.csprojResolveAssemblyReference.cache
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.Form1.resources
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.Properties.Resources.resources
+C:\Users\JAY GUPTA\Downloads\VLC LiFi\New folder\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.csproj.GenerateResource.Cache
+F:\project\Motion Control\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.exe.config
+F:\project\Motion Control\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.exe
+F:\project\Motion Control\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.pdb
+F:\project\Motion Control\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.exe
+F:\project\Motion Control\onscreenarrows\onscreenarrows\bin\Debug\onscreenarrows.pdb
+F:\project\Motion Control\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.csprojResolveAssemblyReference.cache
+F:\project\Motion Control\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.Form1.resources
+F:\project\Motion Control\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.Properties.Resources.resources
+F:\project\Motion Control\onscreenarrows\onscreenarrows\obj\Debug\onscreenarrows.csproj.GenerateResource.Cache
