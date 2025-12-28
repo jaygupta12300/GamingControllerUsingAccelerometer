@@ -2,7 +2,7 @@
 
 **GamingControllerUsingAccelerometer** is an interactive electronics and software project that lets you **control game arrow keys using the motion of an accelerometer** connected to an Arduino. The tilt of the accelerometer is converted into keyboard arrow key events via a C# application, enabling motion-based gaming input.
 
-This project serves as a DIY motion controller interface that demonstrates how physical movement can be used as a game control mechanism — similar in spirit to motion controllers like the Wii Remote but DIY and customizable with Arduino and C#. ([Wikipedia][https://en.wikipedia.org/wiki/Motion_controller?utm_source=chatgpt.com])
+This project serves as a DIY motion controller interface that demonstrates how physical movement can be used as a game control mechanism — similar in spirit to motion controllers like the Wii Remote but DIY and customizable with Arduino and C#. ([Wikipedia][https://en.wikipedia.org/wiki/Motion_controller])
 
 ---
 
@@ -67,7 +67,7 @@ You’ll see how tilting the accelerometer results in arrow movement on the scre
    * Based on tilt direction, the app generates keyboard arrow key events
    * These key presses control game movement
 
-This concept is similar to motion controllers that map device orientation to game actions. ([Wikipedia][https://en.wikipedia.org/wiki/Motion_controller?utm_source=chatgpt.com])
+This concept is similar to motion controllers that map device orientation to game actions. ([Wikipedia][https://en.wikipedia.org/wiki/Motion_controller])
 
 ---
 
